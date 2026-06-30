@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <color name="primary">#5486ed</color>
+    <color name="accent">#d494c7</color>
+    <color name="surface">#191a1f</color>
+    <color name="alert">#ef4444</color>
+    <color name="secondary_text_color">#FFD1D5DB</color>
+    
+    <color name="badge_stroke">#333945</color>
+
+    <color name="card_background">#23272f</color>
+    <color name="floating_button_background">#903C4443</color>    
+    <color name="profile_btn_background">#f7ccb3</color>
+    
+    <!-- Music Genres -->
+    <color name="indie">#FFAC1F</color>
+    <color name="pop">#ff69b4</color>
+    <color name="rock">#e63946</color>
+    <color name="heavy_metal">#8e9aaf</color>
+    <color name="techno">#00D35B</color>
+    <color name="edm">#00ADD1</color>
+    <color name="reggaeton">#ffb703</color>
+    <color name="trap">#a06cd5</color>
+    <color name="hip_hop">#bc6c25</color>
+    <color name="jazz">#ff9e00</color>
+    <color name="blues">#0077b6</color>
+    <color name="flamenco">#d00000</color>
+    <color name="folk">#606c38</color>
+    <color name="reggae">#55a630</color>
+    <color name="ska">#2a9d8f</color>
+    <color name="punk">#ff0054</color>
+    <color name="funk">#ff5400</color>
+    <color name="hardstyle">#ff4d00</color>
+</resources>

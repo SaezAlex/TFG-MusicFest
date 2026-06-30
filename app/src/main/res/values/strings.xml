@@ -1,0 +1,50 @@
+<resources>
+    <!-- general -->
+    <string name="app_name">MusicFest</string>
+    <string name="error">Se ha producido un error</string>
+    
+    <!-- clients_bottom_menu -->
+    <string name="home">Inicio</string>
+    <string name="search">Buscar</string>
+    <string name="tickets">Tickets</string>
+    <string name="favorites">Favoritos</string>
+    <string name="artists">Artistas Top</string>
+    
+    <!-- activity_titles -->
+    <string name="ProfileActivityTitle">Perfil</string>
+    
+    <!-- fragment_titles -->
+    <string name="homeFragmentTitle">Festivales</string>
+    <string name="homeFragmentSubtitle">DESCUBRE</string>
+    <string name="picturesFragmentTitle">Fotos</string>
+    <string name="ticketsFragmentTitle">Mis tickets</string>
+    <string name="favoritesFragmentTitle">Favoritos</string>
+    
+    <!-- activity_profile -->
+    <string name="userNickExample">"@music_junkie"</string>
+    <string name="edit">Editar</string>
+
+    <!-- music_genres -->
+    <string name="indie">Indie</string>
+    <string name="pop">Pop</string>
+    <string name="rock">Rock</string>
+    <string name="heavy_metal">Heavy Metal</string>
+    <string name="techno">Techno</string>
+    <string name="edm">EDM</string>
+    <string name="reggaeton">Reggaetón</string>
+    <string name="trap">Trap</string>
+    <string name="hip_hop">Hip-Hop</string>
+    <string name="jazz">Jazz</string>
+    <string name="blues">Blues</string>
+    <string name="flamenco">Flamenco</string>
+    <string name="folk">Folk</string>
+    <string name="reggae">Reggae</string>
+    <string name="ska">Ska</string>
+    <string name="punk">Punk</string>
+    <string name="funk">Funk</string>
+    <string name="hardstyle">Hardstyle</string>
+    
+    <!-- fragment_search -->
+    <string name="search_hint">Buscar…</string>
+    <string name="no_results">No se han encontrado resultados</string>
+</resources>

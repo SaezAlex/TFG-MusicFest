@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83707518614",
+    "project_id": "musicfest-3a05e",
+    "storage_bucket": "musicfest-3a05e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83707518614:android:134abfbd1d58a7e6e22cb7",
+        "android_client_info": {
+          "package_name": "com.example.musicfest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNT7tkm1o6uySqwelhMKqu5Ue1DXi9WOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
